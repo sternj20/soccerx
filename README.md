@@ -2,3 +2,4 @@
 
 ## Collaborators
  - Christian Vuerings
+ - Jesse Stern
